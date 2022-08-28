@@ -8,5 +8,5 @@ Thanks for checking out this front-end coding challenge.
 
 ## Deployed project link
 
-- [Netlify](https://www.netlify.com/](https://gregarious-biscuit-36bd08.netlify.app)
+- (https://gregarious-biscuit-36bd08.netlify.app)
 
