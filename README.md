@@ -8,5 +8,5 @@ Thanks for checking out this front-end coding challenge.
 
 ## Deployed project link
 
-- (darling-frangipane-7c130e)
+-[Netlify] (darling-frangipane-7c130e)
 
